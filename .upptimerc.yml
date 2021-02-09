@@ -6,8 +6,8 @@ repo: test-uptime-2 # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: CLA assistant
+    url: https://cla-assistant.io
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site

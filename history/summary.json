@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.94%",
     "time": 74,
-    "timeDay": 67,
-    "timeWeek": 79,
+    "timeDay": 64,
+    "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 204
+    }
   },
   {
     "name": "CLA assistant",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/cla-assistant.io",
     "slug": "cla-assistant",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 218,
-    "timeWeek": 307,
-    "timeMonth": 249,
-    "timeYear": 289,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.71%",
+    "time": 287,
+    "timeDay": 201,
+    "timeWeek": 295,
+    "timeMonth": 248,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2021-03-15": 204
+    }
   },
   {
     "name": "Hacker News",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.94%",
-    "time": 428,
-    "timeDay": 388,
-    "timeWeek": 384,
-    "timeMonth": 427,
-    "timeYear": 428,
+    "time": 427,
+    "timeDay": 378,
+    "timeWeek": 399,
+    "timeMonth": 425,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2021-03-15": 204
     }
@@ -61,17 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 204
+    }
   },
   {
     "name": "Test for HEAD",
@@ -79,16 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "test-for-head",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.84%",
     "time": 16,
-    "timeDay": 11,
-    "timeWeek": 16,
+    "timeDay": 12,
+    "timeWeek": 15,
     "timeMonth": 16,
     "timeYear": 16,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 204
+    }
   }
 ]

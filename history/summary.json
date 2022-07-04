@@ -22,19 +22,19 @@
     "url": "https://cla-assistant.io",
     "icon": "https://favicons.githubusercontent.com/cla-assistant.io",
     "slug": "cla-assistant",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 316,
-    "timeWeek": 363,
-    "timeMonth": 296,
-    "timeYear": 260,
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 263,
+    "timeDay": 337,
+    "timeWeek": 365,
+    "timeMonth": 298,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-07-04": 0
+      "2022-07-04": 31
     }
   },
   {

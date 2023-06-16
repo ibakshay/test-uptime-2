@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 69,
-    "timeWeek": 124,
-    "timeMonth": 142,
+    "timeDay": 71,
+    "timeWeek": 117,
+    "timeMonth": 140,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cla-assistant.io",
     "icon": "https://icons.duckduckgo.com/ip3/cla-assistant.io.ico",
     "slug": "cla-assistant",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 479,
-    "timeDay": 4573,
-    "timeWeek": 1094,
-    "timeMonth": 703,
+    "timeDay": 2485,
+    "timeWeek": 1007,
+    "timeMonth": 693,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-06-16": 1,
+      "2023-06-16": 25,
       "2023-01-25": 26,
       "2022-12-28": 85,
       "2022-07-04": 31
@@ -88,19 +88,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 26,
     "timeDay": 15,
-    "timeWeek": 25,
-    "timeMonth": 35,
+    "timeWeek": 23,
+    "timeMonth": 34,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 25
     }
   }
 ]

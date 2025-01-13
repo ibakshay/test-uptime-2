@@ -25,18 +25,20 @@
     "url": "https://cla-assistant.io",
     "icon": "https://icons.duckduckgo.com/ip3/cla-assistant.io.ico",
     "slug": "cla-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 635,
-    "timeWeek": 660,
-    "timeMonth": 637,
-    "timeYear": 621,
-    "dailyMinutesDown": {}
+    "timeDay": 583,
+    "timeWeek": 644,
+    "timeMonth": 634,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "Hacker News",

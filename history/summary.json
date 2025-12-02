@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 78,
-    "timeWeek": 84,
-    "timeMonth": 122,
+    "timeDay": 72,
+    "timeWeek": 81,
+    "timeMonth": 121,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-12-02": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CLA assistant",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 641,
-    "timeDay": 761,
-    "timeWeek": 736,
-    "timeMonth": 695,
+    "timeDay": 603,
+    "timeWeek": 699,
+    "timeMonth": 696,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-03-12": 20,
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 94,
-    "timeWeek": 219,
-    "timeMonth": 423,
+    "timeDay": 483,
+    "timeWeek": 273,
+    "timeMonth": 426,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-05-27": 21
@@ -90,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 22,
-    "timeWeek": 20,
+    "timeDay": 11,
+    "timeWeek": 19,
     "timeMonth": 95,
     "timeYear": 58,
     "dailyMinutesDown": {}

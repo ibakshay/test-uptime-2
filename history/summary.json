@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 75,
-    "timeWeek": 322,
-    "timeMonth": 242,
+    "timeDay": 143,
+    "timeWeek": 330,
+    "timeMonth": 243,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2025-12-14": 32
@@ -26,13 +26,13 @@
     "slug": "cla-assistant",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 650,
-    "timeDay": 455,
-    "timeWeek": 583,
+    "timeDay": 677,
+    "timeWeek": 567,
     "timeMonth": 758,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 408,
-    "timeWeek": 309,
-    "timeMonth": 319,
+    "timeDay": 393,
+    "timeWeek": 341,
+    "timeMonth": 322,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-05-27": 21
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 13,
-    "timeWeek": 115,
-    "timeMonth": 121,
+    "timeDay": 37,
+    "timeWeek": 118,
+    "timeMonth": 117,
     "timeYear": 66,
     "dailyMinutesDown": {}
   }

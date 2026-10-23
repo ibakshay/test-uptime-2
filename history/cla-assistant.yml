@@ -1,7 +1,7 @@
 url: https://cla-assistant.io
-status: up
-code: 200
-responseTime: 587
-lastUpdated: 2026-10-23T01:11:18.728Z
+status: down
+code: 503
+responseTime: 304
+lastUpdated: 2026-10-23T06:32:52.509Z
 startTime: 2021-02-09T16:21:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

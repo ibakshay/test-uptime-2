@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 131,
-    "timeDay": 139,
-    "timeWeek": 83,
+    "timeDay": 76,
+    "timeWeek": 85,
     "timeMonth": 90,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cla-assistant.io.ico",
     "slug": "cla-assistant",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "76.99%",
-    "uptimeWeek": "88.37%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "99.57%",
-    "time": 631,
-    "timeDay": 465,
-    "timeWeek": 532,
-    "timeMonth": 584,
-    "timeYear": 627,
+    "uptime": "99.90%",
+    "uptimeDay": "48.03%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "99.49%",
+    "time": 630,
+    "timeDay": 389,
+    "timeWeek": 510,
+    "timeMonth": 580,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2026-01-01": 18,
       "2026-01-19": 32,
@@ -52,7 +52,8 @@
       "2026-10-17": 137,
       "2026-10-18": 134,
       "2026-10-19": 570,
-      "2026-10-23": 331
+      "2026-10-23": 549,
+      "2026-10-24": 200
     }
   },
   {
@@ -67,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 287,
-    "timeWeek": 208,
-    "timeMonth": 246,
-    "timeYear": 288,
+    "timeDay": 346,
+    "timeWeek": 247,
+    "timeMonth": 248,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2026-03-10": 36
     }
@@ -105,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 65,
-    "timeWeek": 38,
+    "timeDay": 34,
+    "timeWeek": 39,
     "timeMonth": 319,
     "timeYear": 82,
     "dailyMinutesDown": {}

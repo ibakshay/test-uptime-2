@@ -28,16 +28,16 @@
     "url": "https://cla-assistant.io",
     "icon": "https://icons.duckduckgo.com/ip3/cla-assistant.io.ico",
     "slug": "cla-assistant",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "48.03%",
-    "uptimeWeek": "84.23%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "99.49%",
-    "time": 630,
-    "timeDay": 389,
-    "timeWeek": 510,
-    "timeMonth": 580,
+    "uptimeDay": "34.65%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "99.46%",
+    "time": 631,
+    "timeDay": 471,
+    "timeWeek": 517,
+    "timeMonth": 581,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2026-01-01": 18,
@@ -53,7 +53,7 @@
       "2026-10-18": 134,
       "2026-10-19": 570,
       "2026-10-23": 549,
-      "2026-10-24": 200
+      "2026-10-24": 393
     }
   },
   {
